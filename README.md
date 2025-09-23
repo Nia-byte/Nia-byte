@@ -1,4 +1,4 @@
-## Hi, I am Nia Diale 👋
+## Hi, I am Nia Diale 
 A final year computer science student studying Bachelor of Computer and Information Sciences at Varsity College.
 
 - 🔭 I’m currently working on a website for cleaning company for their booking system.
